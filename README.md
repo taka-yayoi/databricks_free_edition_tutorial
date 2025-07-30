@@ -2,6 +2,7 @@
 
 **前提:** Databricks Free Editionアカウント作成済み
 - まだの方は[こちら](https://qiita.com/taka_yayoi/items/33e9cfa7ca9ca9febe72)を参考にサインアップお願いします。
+- [こちらの手順](https://docs.databricks.com/aws/ja/repos/git-operations-with-repos)を参考に、このリポジトリをGitフォルダーとしてクローンしてください。
 
 ## 0. My first Databricks
 
